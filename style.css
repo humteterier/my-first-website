@@ -1,0 +1,46 @@
+#best{
+  color: gold;
+}
+.food {
+	color: green;
+}
+.red {
+	color: red;
+}
+html, li, a, h1, p {
+  color: blue;
+}
+/* * {
+  color: purple;
+} */
+img{
+  max-width: 600px;
+}
+table,
+td {
+    border: 1px solid black;
+}
+
+thead td,
+tfoot td{
+    background-color: black;
+    color: white;
+}
+
+.table-head{
+  background-color: gray;
+}
+
+.male{
+  color: blue;
+}
+.female{
+	color: hotpink;
+}
+.pet{
+	color: olivedrab;
+}
+
+fieldset{
+  border-radius: 15px;
+}
